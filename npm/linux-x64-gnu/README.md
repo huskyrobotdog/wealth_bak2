@@ -1,0 +1,3 @@
+# `@huskyrobotdog/wealth-linux-x64-gnu`
+
+This is the **x86_64-unknown-linux-gnu** binary for `@huskyrobotdog/wealth`

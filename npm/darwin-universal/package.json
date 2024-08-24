@@ -1,0 +1,15 @@
+{
+  "name": "@huskyrobotdog/wealth-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "wealth.darwin-universal.node",
+  "files": [
+    "wealth.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
