@@ -17,6 +17,7 @@
       ]
     }
   },
+  "repository": "https://github.com/huskyrobotdog/wealth.git",
   "license": "MIT",
   "devDependencies": {
     "@napi-rs/cli": "^2.18.4",
